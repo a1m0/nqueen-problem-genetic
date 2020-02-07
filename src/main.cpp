@@ -1,3 +1,8 @@
+// author: Alireza Mohamadzade
+// email: aliremo7899@gmail.com
+// github: https://github.com/almo99/nqueen_problem_genetic
+
+
 #include <iostream>
 #include <algorithm>
 #include <cstdlib>
